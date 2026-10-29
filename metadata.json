@@ -1,0 +1,6 @@
+{
+  "name": "FISIKA JENIUS — LABORATORIUM ALAT OPTIK",
+  "description": "Aplikasi LMS latihan TKA Fisika SMA tentang Alat Optik dan Cacat Mata bersama Mister Jo. Dilengkapi 30 soal HOTS, audio narator Web Speech API, pembahasan terstruktur, cara cepat, dan rumus kunci.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
